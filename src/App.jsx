@@ -183,7 +183,7 @@ export default function App() {
               }
             />
             <Route
-              path="/register"
+              path="/"
               element={
                 <>
                   <PageTitle title="Register" />
