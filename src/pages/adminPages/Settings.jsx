@@ -1,4 +1,4 @@
-import { useTheme } from "./ThemeContext";
+import  {useTheme } from "./themeContext";
 import { useState } from "react";
 
 function Settings() {
