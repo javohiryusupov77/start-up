@@ -165,7 +165,7 @@ import DriverLayout from "./layout/DriverLayout";
 import PageTitle from "./components/PageTitle";
 import HomePageDashboardOwner from "./pages/ownerPages/HomePageDashboardOwner";
 import RegisterPage from "./pages/login/Register";
-import { ThemeProvider } from "./pages/adminPages/ThemeContex";
+import { ThemeProvider } from "./pages/adminPages/themeContext";
 
 export default function App() {
   return (
